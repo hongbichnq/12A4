@@ -17,13 +17,9 @@ td {
 .menu{
   background-color: gray;
   padding: 20px;
-  display: inline;
-  width: 30%;
-  height: 100%;
 }
 .content{
   background-color: white;
   height: 350px;
   display: inline;
-  width: 70%;
 }
