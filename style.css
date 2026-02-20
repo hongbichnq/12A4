@@ -19,6 +19,7 @@ td {
   padding: 20px;
   display: inline;
   width: 30%;
+  height: 100%;
 }
 .content{
   background-color: white;
