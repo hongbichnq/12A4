@@ -16,7 +16,7 @@ td {
 }
 .menu{
   background-color: gray;
-  height: 50px;
+  padding: 10px;
   display: block;
 }
 .content{
