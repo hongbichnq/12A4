@@ -6,17 +6,20 @@ td {
   text-align: center;
 }
 .tieude {
-  color: tomato;
-  font-size: 25pt;
-  top-margin: 18pt;
+    color: tomato;
+    font-size: 25pt;
+    top-margin: 18pt;
 }
 .header{
-  background-color: lightgray;
-  height: 50px;
+    background-color: lightgray;
+    height: 50px;
 }
 .menu{
-  background-color: gray;
-  padding: 10px;
+    background-color: gray;
+    
+}
+.menu a {
+    padding: 15px;
 }
 .content{
   background-color: white;
