@@ -5,6 +5,9 @@ h1 {
 td {
   text-align: center;
 }
+iframe {
+    border: none;
+}
 .tieude {
     color: tomato;
     font-size: 25pt;
@@ -17,7 +20,7 @@ td {
 }
 .menu{
     background-color: gray;
-    
+    padding: 10px;
 }
 .menu a {
     padding: 15px;
