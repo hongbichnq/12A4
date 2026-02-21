@@ -10,9 +10,7 @@ td {
     font-size: 25pt;
     top-margin: 18pt;
 }
-iframe {
-    border: none;
-}
+
 .header{
     background-color: lightgray;
     height: 50px;
