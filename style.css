@@ -28,6 +28,10 @@ iframe {
     padding: 15px;
     color: lightgray;
 }
+.menu a:hover{
+    background-color: lightgray;
+    color: black;
+}
 .content{
   background-color: white;
   height: 350px;
