@@ -4,7 +4,7 @@
     height: 100vh;
 }
 .header{
-    flex: 20%;
+    flex: 15%;
     background-color: lightgray;
 }
 .menu{
@@ -16,9 +16,10 @@
     background-color: white;
 }
 .footer{
-    flex: 5%;
+    flex: 10%;
     background-color: lightgray;
 }
+
 
 h1 {
   margin: 12px;
