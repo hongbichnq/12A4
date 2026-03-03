@@ -6,8 +6,8 @@
 .header{
     flex: 15%;
     background-color: lightgray;
-    background: url("images/logoNQ.png") center/100% 100% ;
-    aspect-ratio: 6 / 1;
+    background: url("images/logoNQ.png") center ;
+    
 }
 .menu{
     flex: 5%;
